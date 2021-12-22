@@ -57,4 +57,4 @@ $ sudo su
 # cp sample.env .env 
 # nano .env # fill it with your env 
 # python3 main.py
-```
+```.
